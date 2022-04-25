@@ -5,7 +5,7 @@ do
     sleep 5
     sudo myst connection down
 	sudo myst connection up $1
-    sleep 1800
+    sleep 600
     
     
 done
